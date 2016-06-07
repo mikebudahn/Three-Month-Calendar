@@ -4,5 +4,5 @@ This application for Microsoft Windows is handy for any job where you need ready
 
 This application lets you see all relevant calendar dates in one view.
 
-Mike Budahn
+Mike Budahn,
 June 2016
